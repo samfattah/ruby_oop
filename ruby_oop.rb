@@ -54,3 +54,20 @@ puts person_1.info
 puts person_2.info
 puts person_1.is_old?
 
+# =============================
+# MODULES
+# =============================
+
+# Modules act as a library where tou can put code that needs to be-- 
+# shared berween different classes or modules
+
+# MODULE EXAMPLE: 
+# module Math
+#   def add(num_1, num_2)
+#     num_1 + num_2
+#   end
+
+#   def subtract(num_1, num_2)
+#     num_1 - num_2
+#   end
+# end
